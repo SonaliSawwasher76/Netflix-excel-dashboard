@@ -1,0 +1,93 @@
+# 🎬 Netflix Movies & TV Shows - Excel Dashboard Project
+
+This project is an Excel-based interactive dashboard built using the **Netflix Movies & TV Shows dataset** (sourced from Kaggle). It demonstrates key skills in data analysis, data cleaning, and visualization using advanced Excel features.
+
+---
+
+## 📌 Project Objectives
+
+- Analyze global Netflix content trends
+- Identify most-watched genres
+- Discover top contributing countries and years
+- Display content type breakdown (TV Shows vs Movies)
+- Present key metrics using KPI Cards and Charts
+
+---
+
+## 📂 Dataset Source
+
+**Netflix Movies and TV Shows Dataset**  
+📥 From: [Kaggle - Netflix Titles](https://www.kaggle.com/datasets/shivamb/netflix-shows)  
+Fields used:
+- Title
+- Director
+- Cast
+- Country
+- Date Added
+- Duration
+- Listed_in (Genres)
+- Type (Movie or TV Show)
+
+---
+
+## 📊 Excel Skills Demonstrated
+
+- ✅ **Data Cleaning** (removing blanks, formatting dates, standardizing text)
+- ✅ **Functions**: `IF`, `IFERROR`, `VLOOKUP`, `INDEX`, `MATCH`, `OFFSET`, `AND`, `OR`, `SUMIF`, `COUNTIF`, `TEXT`, `DATEDIF`, etc.
+- ✅ **Pivot Tables**: Genre-wise viewers, Country content share, Year-wise trends
+- ✅ **Pivot Charts**: Column, Pie, Bar, Line, and Slicers
+- ✅ **KPI Cards** using formulas and conditional formatting
+- ✅ **Slicers** for interactive filtering
+- ✅ **Power Query** (optional stage for genre splitting and cleanup)
+
+---
+
+## 📸 Dashboard Preview
+
+![Netflix Dashboard Preview](netflix_dashboard.png)
+
+---
+
+## 📈 KPIs Used
+
+- Total Titles
+- Total Movies
+- Total TV Shows
+- Most Watched Genre (based on random viewer count)
+- Country-wise and Year-wise content contribution
+
+---
+
+## 💡 What I Learned
+
+Through this project, I improved my Excel proficiency in:
+- Working with large datasets
+- Preparing data for analysis
+- Designing user-friendly dashboards
+- Applying logic-based formulas for dynamic reports
+
+---
+
+## 📎 How to Use
+
+1. Download the `.xlsx` file from this repo
+2. Open in Excel (2013 or newer)
+3. Use the slicers and charts to explore the data interactively
+
+---
+
+## 📁 Files in Repository
+
+- `Netflix_Dashboard.xlsx` – Main dashboard file
+- `README.md` – This documentation
+- `dashboard_preview.png` – (optional) Screenshot of dashboard
+
+---
+
+## 🚀 Contact
+
+📧 Created by [Sonali Sawwasher]  
+📍 Based on a real mock interview project & Excel learning assignment
+
+---
+
